@@ -10,4 +10,4 @@
 - How to analyze which product category drives the highest average total price by transaction.
 ## Preview
 - https://github.com/aremuj/Customer-Purchase-History-Analysis/upload/main
-- Click the link above to download to complete work.
+- Click the link above to download the complete work.
