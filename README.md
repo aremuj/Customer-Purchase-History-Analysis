@@ -2,7 +2,7 @@
 ## Tool Used
 - Microsoft Excel
 ## Project Overview
-- This project analyzed customers transactions to understand to customer value, product performance, and category trends to improve marketing, inventory, and retention strategies.
+- This project analyzed customers transactions to understand customer value, product performance, and category trends to improve marketing, inventory, and retention strategies.
 ## What I Learned
 - How to identify high value customers.
 - How to anayze and rank customers by total spend.
